@@ -1,2 +1,0 @@
-# proyecto.github.io
-AULA
