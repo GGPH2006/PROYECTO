@@ -1,2 +1,2 @@
-# PROYECTO.github.io
+# PROYECTO
 AULA
